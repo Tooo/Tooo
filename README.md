@@ -1,4 +1,10 @@
-# Travis Chan
+<h1 align='center'>
+  Travis
+</h1>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=toooo123&show_icons=true&count_private=true&theme=dark&title_color=fff500&text_color=fff500&icon_color=fff500" width="350"></a>
+</p>
 
 <!--
 **Toooo123/Toooo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
