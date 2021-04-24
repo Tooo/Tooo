@@ -41,6 +41,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tooo&repo=Online-Hangman&theme=dark)](https://github.com/Tooo/Online-Hangman)
 ### Python
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tooo&repo=6-49-Processing-System&theme=dark)](https://github.com/Tooo/6-49-Processing-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tooo&repo=Stage-Puzzle-Manhattan&theme=dark)](https://github.com/Tooo/Stage-Puzzle-Manhattan)
 ### C
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tooo&repo=Simple-Talk&theme=dark)](https://github.com/Tooo/Simple-Talk)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tooo&repo=Process-Scheduling-Simulation&theme=dark)](https://github.com/Tooo/Process-Scheduling-Simulation)
