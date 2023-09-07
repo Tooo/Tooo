@@ -44,6 +44,9 @@
 </p>
 
 ## Projects
+### BeagleBone
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tooo&repo=Beagle-Gotchi&theme=dark)](https://github.com/Tooo/Beagle-Gotchi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tooo&repo=BeatBox-BeagleBone&theme=dark)](https://github.com/Tooo/BeatBox-BeagleBone)
 ### Android
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tooo&repo=Restaurant-Health-Inspection-Android&theme=dark)](https://github.com/Tooo/Restaurant-Health-Inspection-Android)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tooo&repo=PikaCatch-Android&theme=dark)](https://github.com/Tooo/PikaCatch-Android)
