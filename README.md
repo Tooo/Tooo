@@ -1,5 +1,5 @@
 # Travis 
-4th Year Computer Science Student
+Software Engineer at Arista Networks
 
 ### Programming Languages
 <p>
